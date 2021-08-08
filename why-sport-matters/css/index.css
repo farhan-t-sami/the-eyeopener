@@ -1,0 +1,159 @@
+/* Fonts */
+/* Headline: Calistoga 35pt; Pullquote: Callistoga 21pt */
+@import url('https://fonts.googleapis.com/css2?family=Calistoga&display=swap');
+/* DEK: Roboto Condensed 14pt */
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&family=Roboto+Slab&family=Work+Sans&display=swap');
+
+:root{
+    --red: #D51008;
+    --maroon: #A5010C;
+    --purple: #7C2779;
+    --blue: #0D5496;
+    --sky: #0E8BC5;
+    --aqua: #4ABFB2;
+}
+
+body {
+    /* background-image: url('./assets/background/Final\ Microsite\ Background.jpg'); */
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    overflow: overlay;
+}
+
+body::-webkit-scrollbar {
+    background-color: transparent;
+    width: 6px;
+    /* margin-top: 64px; */
+}
+
+/* background of the scrollbar except button or resizer */
+body::-webkit-scrollbar-track {
+    background-color: transparent;
+    /* margin-top: 64px; */
+}
+
+/* scrollbar itself */
+body::-webkit-scrollbar-thumb {
+    background-color: #757575;
+    border-radius: 14px;
+    border: 1px solid transparent;
+    /* margin-top: 64px; */
+}
+
+/* set button(top and bottom of the scrollbar) */
+body::-webkit-scrollbar-button {
+    display:none;
+    /* margin-top: 64px; */
+}
+
+.home-w {
+    background-color: white;
+}
+ .home-g {
+     background-color: #F6F6F6;
+ }
+
+.title {
+    font-family: 'Calistoga', cursive;
+    font-size: 24px;
+    color:#A5010C;
+}
+
+p {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 15px;
+    color: black;
+}
+
+.job {
+    font-family: 'Calistoga', cursive;
+    font-size: 20px;
+    color:#0D5496;
+}
+
+.name {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 17px;
+    color: black;
+}
+
+/* 
+.card{
+    background-color: transparent;
+    border: none;
+}
+
+
+.headline {
+    font-family: 'Fraunces', serif;
+    font-weight: 700;
+    font-size: 30px;
+    margin-bottom: 0%;
+}
+
+a{
+    text-decoration: none;
+    color:black;
+}
+
+a:hover{
+    color: #a4036f;
+}
+
+.homepage-title{
+    width: 100vw;
+    height: 100vh;
+}
+
+.homepage-title img{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    bring your own prefixes
+    transform: translate(-50%, -50%);
+    width: 75%;
+    height: auto;
+}
+
+.phone-view{
+    display: none;
+}
+
+.microsite{
+    display: block;
+}
+
+.credit-text{
+    color: black;
+    font-family: 'Didact Gothic', sans-serif;
+    font-size: 20px;
+    margin-bottom: 0%;
+}
+
+.credit-header{
+    color: #a4036f;
+    font-family: 'Fraunces', serif;
+    font-weight: 600;
+    font-size: 25px;
+    margin-bottom: 0%;
+}
+
+@media only screen and (max-width: 1024px) {
+    .phone-view{display: block;}
+    .microsite{display: none;}
+    .homepage-title img{
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        bring your own prefixes 
+        transform: translate(-50%, -50%);
+        width: auto;
+        height: 100%;
+    }
+    img {
+        width: 100%;
+    }
+  } */

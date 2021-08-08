@@ -1,0 +1,46 @@
+html {
+    background-color: #FAF3DD;
+}
+
+.head {
+    font-family: 'Oswald', sans-serif;
+    color: #156064;
+}
+
+.deck {
+    font-family: 'Patua One', cursive;
+    color: #AE4750;
+    font-size: xx-large;
+}
+
+.byline {
+    font-family: 'Patua One', cursive;
+    color: #696969;
+}
+
+.pullquote {
+    font-family: 'Permanent Marker', cursive;
+    color: #4DA167;
+    font-size: xx-large;
+}
+
+.text {
+    font-family: 'Crimson Text', serif;
+    color: black;
+}
+
+.font {
+    font-size: x-large;
+}
+
+.head-desktop {
+    font-size: 60px;
+}
+
+.head-mobile {
+    font-size: 40px;
+}
+
+.nav-color {
+    background-color: #537A5A;
+}

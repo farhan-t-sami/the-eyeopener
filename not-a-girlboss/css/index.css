@@ -1,0 +1,37 @@
+html{
+  overflow-x: hidden;
+}
+.navy-bc{
+  background-color: #1F3E51;
+}
+.navy-c{
+  color: #1F3E51
+}
+.yellow-bc{
+  background-color: #ECFFB0;
+}
+.yellow-c{
+  color: #ECFFB0
+}
+.blue-bc{
+  background-color: #AFD2E9;
+}
+.blue-c{
+  color: #AFD2E9;
+}
+.pink-bc{
+  background-color: #FFBCB5;
+}
+.pink-c{
+  color: #FFBCB5;
+}
+.green-bc{
+  background-color: #C6CA53;
+}
+.green-c{
+  color: #C6CA53;
+}
+
+p {
+  text-align: center;
+}

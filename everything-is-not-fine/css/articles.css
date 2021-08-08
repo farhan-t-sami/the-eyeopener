@@ -1,0 +1,9 @@
+body {
+    background-color: black;
+    /* cursor:url(/images/KnifeCursor_JimmyKwan_October2020.png), auto; */
+}
+
+p {
+    text-align: left; font-family: 'Raleway', sans-serif;
+    color: #EDF1ED;
+}
